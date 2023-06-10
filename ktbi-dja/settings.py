@@ -52,7 +52,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'django_kbbi.urls'
+ROOT_URLCONF = 'ktbi-dja.urls'
 
 TEMPLATES = [
     {
@@ -70,7 +70,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'django_kbbi.wsgi.application'
+WSGI_APPLICATION = 'ktbi-dja.wsgi.application'
 
 
 # Database
