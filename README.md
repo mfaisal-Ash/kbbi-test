@@ -1,3 +1,9 @@
+Belajar membuat aplikasi KBBI dengan bantuan source code yang ada melalui link https://github.com/efenfauzi/django_kbbi, namun setelah mempelajari akan diubah. 
+
+
+
+
+
 # Django KBBI
 Django KBBI adalah Kamus Besar Bahasa Indonesia yang ditulis ulang(recode) menggunakan framework django(python). Dikembangkan dari https://github.com/bgli/kbbi-qt beserta database KBBI tanpa mengubah struktur data yang telah tersedia. Alur program menggunakan Queryset ORM Django untuk fitur pencarian sebagai fitur utama. Interface HTML menggunakan material design. 
 
