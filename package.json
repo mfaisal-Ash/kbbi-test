@@ -1,32 +1,18 @@
 {
-  "name": "kbbi.js",
-  "version": "1.0.6",
-  "description": "Kamus Besar Bahasa Indonesia",
+  "name": "myapis",
+  "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/JastinXyz/kbbi.js.git"
-  },
-  "bugs": {
-    "url": "https://github.com/JastinXyz/kbbi.js/issues"
-  },
-  "homepage": "https://github.com/JastinXyz/kbbi.js#readme",
-  "keywords": [
-    "kbbi",
-    "kamus-besar-bahasa-indonesia",
-    "KBBI",
-    "kbbi-js",
-    "kbbijs",
-    "kamus-besar-bahasa-indonesiajs",
-    "kamus-besar-bahasa-indonesia-js"
-  ],
-  "author": "Jastin <jastinlinggar@gmail.com>",
+  "keywords": [],
+  "author": "",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.21.1"
+    "express": "^4.17.3",
+    "grammy": "^1.9.0",
+    "kbbi-scraper": "^1.1.3",
+    "kbbi-scraperv2": "^1.0.2"
   }
 }
- 
